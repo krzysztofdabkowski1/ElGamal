@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\krzysztof\source\repos\elgamal\elgamal\source.cpp(27): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\krzysztof\source\repos\elgamal\elgamal\source.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\krzysztof\source\repos\elgamal\elgamal\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  ElGamal.vcxproj -> C:\Users\Krzysztof\source\repos\ElGamal\Debug\ElGamal.exe
